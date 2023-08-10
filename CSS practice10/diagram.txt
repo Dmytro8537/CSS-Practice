@@ -1,0 +1,7 @@
+Layout the diagram so that the result matches the layout.
+Chart data:
+iPhone XR - 46.3 million
+iPhone 11 - 37.3 million
+Samsung Galaxy A10 - 30.3 million
+Samsung Galaxy A50 - 24.2 million
+Samsung Galaxy A20 - 19.2 million

@@ -1,0 +1,6 @@
+Make up a credit card.
+Chip image: https://s.algoritmika.org/a70yh9
+Fonts for card number: Courier New
+Name font: monospace
+Date font: Tahoma
+The background color is #833ae0.

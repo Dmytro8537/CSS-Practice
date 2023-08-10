@@ -1,0 +1,48 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}
+
+p.date {
+    font-size: 10px;
+    margin: 2px 0px 0px 0px;
+    font-weight: 400;
+}
+
+h1 {
+    margin: 5px 0px 0px 0px;
+    font-size: 36px;
+}
+
+p.author {
+    margin: 0px 0px 0px 0px;
+    background-color: azure;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+article p {
+    font-weight: 500;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.additional {
+    background-color: #EEE;
+    color: #333;
+    padding: 20px;
+    font-size: 12px;
+    margin: 15px 0px 0px 0px;
+}
+
+main {
+    display: flex;
+    min-width: 700px;
+    max-width: 980px;
+}

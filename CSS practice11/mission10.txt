@@ -1,0 +1,7 @@
+Make up the card as required.
+Image Link: https://images-na.ssl-images-amazon.com/images/I/41Ncm1z-pLL._AC_.jpg
+Font: Lato
+Price block text color: #B12704
+Buy and Add to cart button text color: #853ae0
+Background color of the block with characteristics: #ebebeb
+Frame color: #999999

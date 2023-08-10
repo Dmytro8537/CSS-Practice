@@ -1,0 +1,16 @@
+body{
+    
+    font-family: 'Roboto', sans-serif;
+    padding: 4px 40px;
+}
+
+thead{
+    background-color: lightgrey ;
+}
+
+table {
+   border-collapse: collapse;
+   /*убираем пустые промежутки между ячейками*/
+   border: 1px solid #b0a160 ;
+   /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/ 
+}

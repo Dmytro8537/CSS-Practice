@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: darkslategrey;
+    
+
+}
+h1 {
+    font-size: 33px;
+
+    background-color: yellow;
+}
+
+p {
+    font-style: italic ;
+    font-size: 14px;
+}

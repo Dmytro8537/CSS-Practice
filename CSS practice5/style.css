@@ -1,0 +1,129 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    color:white;
+  }
+  li {
+      font-size: 2rem;
+      list-style-type: none; /* Убираем маркеры */
+    }
+  .black{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: black; 
+  }
+  
+  .silver{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: silver; 
+  }
+  .gray{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: grey; 
+  }
+  .white{
+      color: black;
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: white;    
+  }
+  .maroon{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: maroon;     
+  }
+  .red{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: red;     
+  }
+  .purple{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: purple;     
+  }
+  .fuchsia{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: fuchsia;       
+  }
+  .green{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: green;      
+  }
+  .lime{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: lime;     
+  }
+  .olive{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: olive;  
+  }
+  .yellow{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: yellow;  
+  }
+  .navy{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: navy;  
+  }
+  .blue{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: blue;  
+  }
+  .teal{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: teal;  
+  }
+  .aqua{
+      padding-left: 10px;
+      padding-top: 10px;
+      height: 45px;
+      width: 360px;
+      background-color: aqua;  
+  }
+  
+  
+  
+  
+  
+  

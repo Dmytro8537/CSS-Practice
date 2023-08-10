@@ -1,0 +1,61 @@
+body{
+    padding: 10px;
+    margin: 8px;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    display: block;
+    font-weight: bold;
+    font-size : 22px ;
+    margin: 15 0;
+
+}
+.iPhone_XR{
+    width: 463px;
+    color: white;
+    font-size: 11px;
+    height: 50px;
+    margin: 0 0 5px;
+    padding: 18px;
+    background-color: red;
+    box-sizing: border-box;
+    
+}
+
+.iPhone_11{
+    width: 373px;
+    font-size: 11px;
+    height: 50px;
+    margin: 0 0 5px;
+    padding: 18px;
+    background-color:lightblue;
+    box-sizing: border-box;
+}
+.Galaxy_A10{
+    width: 303px;
+    font-size: 11px;
+    height: 50px;
+    margin: 0 0 5px;
+    padding: 18px;
+    background-color:bisque;
+    box-sizing: border-box;
+}
+.Galaxy_A50{
+    width: 242px;
+    font-size: 11px;
+    height: 50px;
+    margin: 0 0 5px;
+    padding: 18px;
+    background-color: cyan;
+    box-sizing: border-box;
+}
+.Galaxy_A20{
+    width: 192px;
+    color: white;
+    font-size: 11px;
+    height: 50px;
+    margin: 0 0 5px;
+    padding: 18px;
+    background-color: black;
+    box-sizing: border-box;
+}

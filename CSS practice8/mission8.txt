@@ -1,0 +1,7 @@
+Style the text block.
+Style the text paragraph as you see fit:
+background color - corn silk;
+margin - 50px on all sides;
+padding - 20px top and bottom, 30px and right;
+block width - 300px, including padding;
+around the block is a solid black border 2px thick.
